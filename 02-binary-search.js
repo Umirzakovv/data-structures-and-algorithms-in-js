@@ -24,4 +24,4 @@ function binarySearch(array, item) {
   return position;
 }
 
-console.log(binarySearch(array, 16));
+console.log(binarySearch(array, ));
